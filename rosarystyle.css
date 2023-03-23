@@ -81,7 +81,7 @@ footer {
   background-blend-mode: normal;
   padding: 10px;
   text-align: left;
-  color: white;
+  color: black;
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */

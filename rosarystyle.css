@@ -43,7 +43,7 @@ header ul {
 /* Create two columns/boxes that floats next to each other */
 nav {
   float: left;
-  width: 18%;
+  width: 21%;
   padding: 20px;
   background-color: #f1f1f1;
   background-image:url("our-lady-of-the-rosary.jpg");

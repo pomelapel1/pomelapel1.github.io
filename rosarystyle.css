@@ -46,7 +46,7 @@ nav {
   width: 18%;
   padding: 20px;
   background-color: #f1f1f1;
-  background-image:url(our-lady-of-the-rosary.jpg);
+  background-image:url("our-lady-of-the-rosary.jpg");
   background-size: cover;
   background-blend-mode: normal;
   
@@ -63,7 +63,7 @@ article {
   padding:20px;
   width: 78%;
   background-color: #f1f1f1;
-  background-image:url(Rose.jpg);
+  background-image:url("Rose.jpg");
   background-size: cover;
   background-blend-mode: normal;
 /*  height: 300px;   */  /* only for demonstration, should be removed */
@@ -79,7 +79,7 @@ section::after {
 /* Style the footer */
 footer {
   background-color: #f1f1f1;
-  background-image:url(our-lady-of-the-rosary.jpg);
+  background-image:url("our-lady-of-the-rosary.jpg");
   background-size: cover;
   background-blend-mode: normal;
   padding: 10px;
